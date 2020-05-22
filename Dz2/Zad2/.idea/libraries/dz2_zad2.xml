@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="dz2_zad2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../dz2_zad2" />
+      <root url="file://$PROJECT_DIR$/../dz2zad1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../dz2_zad2/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../dz2zad1/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
